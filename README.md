@@ -7,7 +7,7 @@ QtFreeVirtualKeyboard is a Qt virtual keyboard plugin for embedded applications.
 Download the repository, build and install the plugin.
 
 ```bash
-git clone https://github.com/amarula/QtFreeVirtualKeyboard.git
+git clone https://github.com/xavi-b/QtFreeVirtualKeyboard.git
 mkdir build && cd build
 qmake ../VirtualKeyboard
 make -j4
@@ -63,6 +63,7 @@ InputPanel {
 ## Authors
  * **Uwe Kindler** - *Initial work* - [githubuser0xFFFF](https://github.com/githubuser0xFFFF)
  * **Andrea Ricchi** - *Maintainer* - [AndreaRicchi](https://github.com/AndreaRicchi)
+ * **xavi-b** - *Maintainer* - [xavi-b](https://github.com/xavi-b)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
