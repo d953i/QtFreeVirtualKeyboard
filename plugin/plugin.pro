@@ -1,9 +1,7 @@
-QT += qml quick quick-private gui-private
-
-CONFIG += plugin
-
-TARGET = freevirtualkeyboardplugin
-TEMPLATE = lib
+TEMPLATE        = lib
+CONFIG         += plugin
+QT             += qml quick quick-private gui-private
+TARGET          = freevirtualkeyboardplugin
 
 SOURCES += \
     VirtualKeyboardInputContextPlugin.cpp \
