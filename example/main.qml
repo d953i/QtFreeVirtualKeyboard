@@ -26,6 +26,8 @@ Window {
         anchors.left: parent.left
         anchors.right: parent.right
 
+        btnTextFontFamily: "monospace"
+
         states: State {
             name: "visible"
             when: Qt.inputMethod.visible
